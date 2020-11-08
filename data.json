@@ -1,0 +1,54 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This project displays a random quote each time user clicks on the 'Show another Quote' button.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/gurpreetdhan0a/randomQuoteGenerator-Project-1",
+            "image": "/images/project-1.png",
+            "image_urls": ["/images/project-1-1.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "List pagination and filtering",
+            "description": "This application converts list of large number of students into pages and applies search functionality.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "http://listpaginationandfiltering.online/",
+            "github_link": "https://github.com/gurpreetdhan0a/listPaginationAndFiltering-Project-2",
+            "image": "/images/project-4.png",
+            "image_urls": ["/images/project-2-1.png", "/images/project-2-2.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive form",
+            "description": "This projects validates all the inputs on evry submittion and displays helpful error messages to the user.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "http://interactiveform.online/",
+            "github_link": "https://github.com/gurpreetdhan0a/interactiveForm-Project-3",
+            "image": "/images/project-3.png",
+            "image_urls": ["/images/project-3-1.png", "/images/project-3-2.png", "/images/project-3-3.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP game app",
+            "description": "This game is built with Object oriented JavacSript {}.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "http://oopgameapp.online/",
+            "github_link": "https://github.com/gurpreetdhan0a/oopGameApp-Project-4",
+            "image": "/images/project-2.png",
+            "image_urls": ["/images/project-4-1.png","/images/project-4-2.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Fetch Api/ Ajax",
+            "description": "This project make Api calls to the randomuser.me and displays the results in the form of cards.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "http://fetchapi.online/",
+            "github_link": "https://github.com/gurpreetdhan0a/fetchapi-project-5",
+            "image": "/images/project-5.png",
+            "image_urls": ["/images/project-5-1.png","/images/project-5-2.png"]
+        }
+    ]
+}

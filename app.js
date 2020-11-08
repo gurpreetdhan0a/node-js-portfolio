@@ -46,7 +46,7 @@ app.use((req, res, next) => {
     <p>${err.stack}</p>`);
   });
 
-const PORT = 3000 || process.env.PORT;
+const PORT = process.env.PORT || 80;
 
 app.listen(PORT, () =>
 {

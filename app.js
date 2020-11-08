@@ -46,9 +46,9 @@ app.use((req, res, next) => {
     <p>${err.stack}</p>`);
   });
 
-  const PORT = 3000 || process.env.PORT;
+const PORT = 3000 || process.env.PORT;
 
 app.listen(PORT, () =>
 {
-    console.log("Port is running at 3000");
+    console.log(`Server is running at ${PORT}`);
 });

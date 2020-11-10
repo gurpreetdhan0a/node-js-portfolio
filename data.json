@@ -7,7 +7,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "",
             "github_link": "https://github.com/gurpreetdhan0a/randomQuoteGenerator-Project-1",
-            "image": "public/images/project-1.png",
+            "image": "/images/project-1.png",
             "image_urls": ["/images/project-1-1.png"]
         },
         {

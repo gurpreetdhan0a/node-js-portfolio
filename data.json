@@ -7,8 +7,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "",
             "github_link": "https://github.com/gurpreetdhan0a/randomQuoteGenerator-Project-1",
-            "image": "/images/project-1.png",
-            "image_urls": ["/images/project-1-1.png"]
+            "image": "/images/project-1.jpg",
+            "image_urls": ["/images/project-1-1.jpg"]
         },
         {
             "id": 1,
@@ -17,8 +17,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "http://listpaginationandfiltering.online/",
             "github_link": "https://github.com/gurpreetdhan0a/listPaginationAndFiltering-Project-2",
-            "image": "/images/project-4.png",
-            "image_urls": ["/images/project-2-1.png", "/images/project-2-2.png"]
+            "image": "/images/project-4.jpg",
+            "image_urls": ["/images/project-2-1.jpg", "/images/project-2-2.jpg"]
         },
         {
             "id": 2,
@@ -27,8 +27,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "http://interactiveform.online/",
             "github_link": "https://github.com/gurpreetdhan0a/interactiveForm-Project-3",
-            "image": "/images/project-3.png",
-            "image_urls": ["/images/project-3-1.png", "/images/project-3-2.png", "/images/project-3-3.png"]
+            "image": "/images/project-3.jpg",
+            "image_urls": ["/images/project-3-1.jpg", "/images/project-3-2.jpg", "/images/project-3-3.jpg"]
         },
         {
             "id": 3,
@@ -37,8 +37,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "http://oopgameapp.online/",
             "github_link": "https://github.com/gurpreetdhan0a/oopGameApp-Project-4",
-            "image": "/images/project-2.png",
-            "image_urls": ["/images/project-4-1.png","/images/project-4-2.png"]
+            "image": "/images/project-2.jpg",
+            "image_urls": ["/images/project-4-1.jpg","/images/project-4-2.jpg"]
         },
         {
             "id": 4,
@@ -47,8 +47,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "http://fetchapi.online/",
             "github_link": "https://github.com/gurpreetdhan0a/fetchapi-project-5",
-            "image": "/images/project-5.png",
-            "image_urls": ["/images/project-5-1.png","/images/project-5-2.png"]
+            "image": "/images/project-5.jpg",
+            "image_urls": ["/images/project-5-1.jpg","/images/project-5-2.jpg"]
         }
     ]
 }
